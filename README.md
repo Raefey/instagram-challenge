@@ -38,3 +38,37 @@ gem "rubocop-rails"
 You can also lint Javascript, CSS, and ERB — feel free to research this. These
 will help you to train yourself to produce cleaner code — and will often alert
 you to mistakes or mishaps!
+
+## User Stories
+
+```
+As a User
+I want to be able to post photos
+So that I can show people what I'm doing
+
+As a User
+I want to be able to view photos
+So that I can see what my friends are doing
+
+As a User
+I want to be able to like photos
+So that I can show my friends I 'like' them
+
+As a User
+I want to be able to remove photos
+So that I can take down posts people find offensive
+
+As a User
+I want to be able to log out
+So other people cannot posts on my account
+
+As a User
+I want to be able to log in
+So I can see all my photos
+
+As a User
+I want to be able to sign up
+So that I can store my data
+
+
+```
